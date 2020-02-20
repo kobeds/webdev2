@@ -1,0 +1,20 @@
+{
+  "name": "webdev2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "how-to-markdown": "^1.6.0",
+    "javascripting": "^2.7.3",
+    "learnyounode": "^4.2.1",
+    "markdown": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "how-to-markdown",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
